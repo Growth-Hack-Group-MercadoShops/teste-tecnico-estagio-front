@@ -7,7 +7,7 @@
 - O menu deve ser renderizado de maneira hierárquica, exibindo todas as categorias e subcategorias fornecidas no JSON.
 - Cada item do menu (categoria ou subcategoria) deve ser apresentado como um dropdown, que será exibido apenas quando o mouse estiver sobre o item correspondente (hover).
 - O dropdown deve conter as subcategorias, e estas também devem ser dropdowns exibidos no hover.
-- Adicione algum estilo básico ao menu para torná-lo visualmente agradável. Uma estilização avançada não é obrigatória, mas é um diferencial.
+- Adicione algum estilo básico ao menu para torná-lo visualmente agradável. Uma estilização avançada é obrigatória, imagine que está fazendo um header de um e-commerce.
 - Além da funcionalidade de dropdown, adicione um destaque visual para indicar a categoria ou subcategoria ativa (aquela que foi clicada).
 - Crie um exemplo de utilização do seu componente com o JSON fornecido.
 - Comente o código para explicar suas escolhas de implementação.
